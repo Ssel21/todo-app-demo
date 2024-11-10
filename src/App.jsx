@@ -4,6 +4,7 @@ import SignUp from "./components/SignUp";
 import { AuthProvider } from "./contexts/AuthContext";
 import { Routes, Route } from "react-router-dom";
 import Login from "./components/Login";
+
 function App() {
   return (
     <>
